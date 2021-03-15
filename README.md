@@ -4,3 +4,5 @@ Hello readers!
 
 I like when there are no typos in my code.
 I also like when there's no syntax errors.
+
+Added line with Eclipse!
